@@ -51,7 +51,9 @@ There does not seem to be a common app that does this. UNICEF and WHO have very 
 - What 3rd party frameworks/libraries are you considering using?
 
 BE:
+
 FE: React, Redux, Redux-Thunk, Styled Components, amCharts 4
+
 UI:
 
 - Do APIs require you to contact its maintainer to gain access?
