@@ -2,16 +2,16 @@
 
 This project is a collaboration between students at various points in the Lambda School curriculum. The scope of this project is for students to demonstrate mastery over materials learned in the previously completed unit. The team members include:
 
-* _Team Lead_: Mark Oliver
-* _Back End_: Manju KC
-* _Front End_: Ethan Hickey
-* _UI Developers_: Annique Nsabimana and Landry Irakoze
+- **Team Lead**: Mark Oliver
+- **Back End**: Manju KC
+- **Front End**: Ethan Hickey
+- **UI Developers**: Annique Nsabimana and Landry Irakoze
 
 Our deployed projects can be found here:
 
-####BackEnd: [link][1]
-####FrontEnd: [link][2]
-####UI Landing Page: [link][3]
+####BackEnd: 
+####FrontEnd: 
+####UI Landing Page:
 
 #TDD
 
@@ -43,6 +43,4 @@ Our deployed projects can be found here:
 
 ##Prototype Key Feature(s)
 
-[1]:
-[2]:
-[3]:
+
