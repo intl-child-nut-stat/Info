@@ -9,9 +9,9 @@ This project is a collaboration between students at various points in the Lambda
 
 Our deployed projects can be found here:
 
-####BackEnd: 
-####FrontEnd: 
-####UI Landing Page:
+###BackEnd: 
+###FrontEnd: 
+###UI Landing Page:
 
 #TDD
 
